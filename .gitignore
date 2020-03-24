@@ -1,0 +1,27 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+# reason/ocaml
+lib
+.merlin
+.vscode
+package-lock.json
+npm-debug.log
+.tern-port
+yarn-error.log
+.ninja_log
+.bsb.lock
+**/**/*.bs.js
+.watchmanconfig
